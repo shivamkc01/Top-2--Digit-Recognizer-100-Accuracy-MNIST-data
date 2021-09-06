@@ -1,5 +1,6 @@
 # Digit-Recognizer
 Learn computer vision fundamentals with the famous MNIST data.
+</br>
 The dataset you will get from here: https://www.kaggle.com/c/digit-recognizer/data
 ### Competition Description </br>
 </hr>
