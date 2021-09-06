@@ -53,4 +53,4 @@ The evaluation metric for this contest is the categorization accuracy, or the pr
 ### CNN Architecture</br>
 [[Conv2D->relu]2 -> BatchNormalization -> MaxPool2D -> Dropout]2 -> [Conv2D->relu]*2 -> BatchNormalization -> Dropout -> Flatten -> Dense -> BatchNormalization -> Dropout -> Out
 </br>
-<img src="
+<img src="CNNModel.png"/>
