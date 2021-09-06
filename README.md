@@ -62,3 +62,8 @@ The evaluation metric for this contest is the categorization accuracy, or the pr
 - Randomly shift images horizontally by 10% of the width
 - Randomly shift images vertically by 10% of the height
 - I did not apply a vertical_flip nor horizontal_flip since it could have lead to   misclassify symetrical numbers such as 6 and 9.
+
+
+### The loss and accuracy curves of the training set and the validation set.
+</br>
+<img src="loss and accuracy curves ofthe_training_set_and_the_validation_set.png" />
