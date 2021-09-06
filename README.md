@@ -30,14 +30,14 @@ Visually, if we omit the "pixel" prefix, the pixels make up the image like this:
 #############################</br>
 000 001 002 003 ... 026 027</br>
 028 029 030 031 ... 054 055</br>
-056 057 058 059 ... 082 083</br
+056 057 058 059 ... 082 083</br>
  |   |   |   |  ...  |   |</br>
 728 729 730 731 ... 754 755</br>
 756 757 758 759 ... 782 783</br>
 #############################</br>
 The test data set, (test.csv), is the same as the training set, except that it does not contain the "label" column.
 
-Your submission file should be in the following format: For each of the 28000 images in the test set, output a single line containing the ImageId and the digit you predict. For example, if you predict that the first image is of a 3, the second image is of a 7, and the third image is of a 8, then your submission file would look like:
+Your submission file should be in the following format: For each of the 28000 images in the test set, output a single line containing the ImageId and the digit you predict. For example, if you predict that the first image is of a 3, the second image is of a 7, and the third image is of a 8, then your submission file would look like:</br>
 ###################</br>
 ImageId,Label</br>
 1,3</br>
