@@ -55,3 +55,10 @@ The evaluation metric for this contest is the categorization accuracy, or the pr
 </br>
 </br>
 <img src="CNNModel.png"/>
+</br>
+### For the data augmentation, i choosed to :
+- Randomly rotate some training images by 10 degrees
+- Randomly Zoom by 10% some training images
+- Randomly shift images horizontally by 10% of the width
+- Randomly shift images vertically by 10% of the height
+- I did not apply a vertical_flip nor horizontal_flip since it could have lead to   misclassify symetrical numbers such as 6 and 9.
