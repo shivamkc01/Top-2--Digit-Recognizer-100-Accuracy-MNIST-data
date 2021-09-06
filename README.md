@@ -67,3 +67,8 @@ The evaluation metric for this contest is the categorization accuracy, or the pr
 ### The loss and accuracy curves of the training set and the validation set.
 </br>
 <img src="loss and accuracy curves ofthe_training_set_and_the_validation_set.png" />
+
+### Confusion matrix can be very helpful to see your model drawbacks and behavior.
+I plot the confusion matrix of the validation results.
+</br>
+<img src="ConfusionMatrix.png" />
