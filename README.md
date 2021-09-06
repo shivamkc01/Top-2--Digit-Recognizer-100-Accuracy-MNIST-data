@@ -1,1 +1,2 @@
-# Top-2--Digit-Recognizer-100-Accuracy-MNIST-data
+# Digit-RecognizerLearn 
+computer vision fundamentals with the famous MNIST data
